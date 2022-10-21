@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073183421714",
+    "project_id": "concrete-84ee5",
+    "storage_bucket": "concrete-84ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073183421714:android:c5c772cf15db859d536fcb",
+        "android_client_info": {
+          "package_name": "com.example.concrete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073183421714-rmh1l55clkr7dqflnq3pkib0nj7ckpoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiG5nhD7aDAs--ExtcG7cu4tjORAYVRo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073183421714-rmh1l55clkr7dqflnq3pkib0nj7ckpoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
